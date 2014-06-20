@@ -19,6 +19,8 @@ Devised between 1830 and 1850 by the Belgian polymath [Adolphe Quetelet](http://
 
 More at <http://en.wikipedia.org/wiki/Body_mass_index>
 
+By filling your height and weight at <http://ivanfoong.shinyapps.io/bmi-developing-data-product>, you can easily find out your own BMI!
+
 --- .class #id 
 
 ## BMI Formula (Metric)
