@@ -25,7 +25,18 @@ More at <http://en.wikipedia.org/wiki/Body_mass_index>
 
 ![BMI formula](http://www.build-muscle-and-burn-fat.com/images/BMI_formula_metric.png)
 
-From <http://www.build-muscle-and-burn-fat.com>
+```{r}
+height = 1.8
+weight = 80
+bmi = weight/(height*height)
+
+# The BMI for a person 1.8m in height and 80kg in weight is:
+bmi
+```
+
+
+
+BMI Formula Image from <http://www.build-muscle-and-burn-fat.com>
 
 --- .class #id 
 
@@ -45,3 +56,5 @@ From <http://www.build-muscle-and-burn-fat.com>
 My BMI calculator can be found at <http://ivanfoong.shinyapps.io/bmi-developing-data-product>
 
 The BMI formula and classification range is as mentioned at <http://www.freebmicalculator.net/>
+
+--- .class #id 
